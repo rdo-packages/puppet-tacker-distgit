@@ -1,3 +1,5 @@
-# UUID                                  	Group Name
-#
-7c217cec57f968df7369665cc745e7c1f393cc29	puppet/puppet-tacker-distgit-ptl
+# UUID          Group Name
+False 	Non-Interactive Users
+1b184268167b53eb9356937c89130902269c94d2       	puppet/puppet-tacker-distgit-core
+7c217cec57f968df7369665cc745e7c1f393cc29        	puppet/puppet-tacker-distgit-ptl
+global:Registered-Users		Registered Users
