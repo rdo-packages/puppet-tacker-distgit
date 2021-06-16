@@ -2,7 +2,7 @@
 %{!?upstream_name: %global upstream_name openstack-tacker}
 
 Name:                   puppet-tacker
-Version:                15.4.0
+Version:                15.4.1
 Release:                1%{?dist}
 Summary:                Puppet module for OpenStack Tacker
 License:                ASL 2.0
@@ -48,6 +48,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/tacker/
 
 
 %changelog
+* Wed Jun 16 2021 RDO <dev@lists.rdoproject.org> 15.4.1-1
+- Update to 15.4.1
+
 * Fri Oct 04 2019 RDO <dev@lists.rdoproject.org> 15.4.0-1
 - Update to 15.4.0
 
