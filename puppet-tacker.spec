@@ -68,3 +68,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/tacker/
 * Mon Jan 09 2017 Dan Radez <dradez@redhat.com> - XXX-XXX
 - Initial Packaging
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-tacker/commit/197a7783fb85f2a1bbd514fad801f5515a3b48dc
