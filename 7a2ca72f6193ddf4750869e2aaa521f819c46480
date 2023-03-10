@@ -16,6 +16,24 @@
       "message": "I proposed a patch to retire it https://review.rdoproject.org/r/c/rdoinfo/+/47662",
       "revId": "7a2ca72f6193ddf4750869e2aaa521f819c46480",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "726d64aa_a53205b9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2023-03-10T08:28:34Z",
+      "side": 1,
+      "message": "The patch is merged, we can abandon this FTBFS",
+      "parentUuid": "fb103de3_e6da623c",
+      "revId": "7a2ca72f6193ddf4750869e2aaa521f819c46480",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
     }
   ]
 }
